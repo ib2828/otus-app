@@ -3,4 +3,4 @@ kind: Kustomization
 
 resources:
   - namespace.yaml
-  - github.com/GoogleCloudPlatform/microservices-demo//kustomize?ref=main
+  - microservices-demo
